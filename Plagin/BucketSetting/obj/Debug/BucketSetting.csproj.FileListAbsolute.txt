@@ -1,0 +1,5 @@
+c:\Users\dytel\source\repos\Plagin\BucketSetting\bin\Debug\BucketSetting.dll
+c:\Users\dytel\source\repos\Plagin\BucketSetting\bin\Debug\BucketSetting.pdb
+c:\Users\dytel\source\repos\Plagin\BucketSetting\obj\Debug\BucketSetting.csproj.CoreCompileInputs.cache
+c:\Users\dytel\source\repos\Plagin\BucketSetting\obj\Debug\BucketSetting.dll
+c:\Users\dytel\source\repos\Plagin\BucketSetting\obj\Debug\BucketSetting.pdb

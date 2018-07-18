@@ -1,0 +1,14 @@
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\Plagin.exe.config
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\Plagin.exe
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\Plagin.pdb
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\BucketSetting.dll
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\KompasProgram.dll
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\BucketSetting.pdb
+C:\Users\dytel\source\repos\Plagin\Plagin\bin\Debug\KompasProgram.pdb
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.csprojResolveAssemblyReference.cache
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.Bucket.resources
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.Properties.Resources.resources
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.csproj.GenerateResource.Cache
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.csproj.CoreCompileInputs.cache
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.exe
+C:\Users\dytel\source\repos\Plagin\Plagin\obj\Debug\Plagin.pdb

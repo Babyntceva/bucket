@@ -1,0 +1,12 @@
+C:\Users\dytel\source\repos\Plagin\KompasProgram\bin\Debug\KompasProgram.dll
+C:\Users\dytel\source\repos\Plagin\KompasProgram\bin\Debug\KompasProgram.pdb
+C:\Users\dytel\source\repos\Plagin\KompasProgram\bin\Debug\BucketSetting.dll
+C:\Users\dytel\source\repos\Plagin\KompasProgram\bin\Debug\BucketSetting.pdb
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\KompasProgram.csprojResolveAssemblyReference.cache
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\Interop.Kompas6API5.dll
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\Interop.Kompas6Constants.dll
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\Interop.Kompas6Constants3D.dll
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\KompasProgram.csproj.ResolveComReference.cache
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\KompasProgram.csproj.CoreCompileInputs.cache
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\KompasProgram.dll
+C:\Users\dytel\source\repos\Plagin\KompasProgram\obj\Debug\KompasProgram.pdb
